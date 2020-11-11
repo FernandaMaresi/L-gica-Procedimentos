@@ -1,16 +1,15 @@
-Algoritmo "semnome"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "OlÃ¡, Mundo"
+// Disciplina  :  [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Fernanda Maresi
 // Data atual  : 31/10/2018
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
  msg: caractere
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-msg <- "Olá Mundo!"
-EScreval("Mensagem ", msg)
-Escreva("Primeiro, programa")
+    // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+    msg <- "OlÃ¡ Mundo!"
+    EScreval("Mensagem ", msg)
+    Escreva("Primeiro, programa")
 Fimalgoritmo
